@@ -13,3 +13,4 @@ Example of Agreement
 • เขียน Comment อธิบายการทํางานของ Method เสมอ
 • ชื่อ Method ถ้ามีหลายคํา ให้ขึ้นคําต่อไปด้วยตัวใหญ่ เช่น methodAdd
 • ในกรณีที#มีการเรียก method ข้าม Class ให้ขึ้นต้นชื#อ method ด้วยตัวเล็ก ตามด้วย Underscore และชื#อ Class เช่น add_FizzBuzz()
+สวัสดีจ้า
